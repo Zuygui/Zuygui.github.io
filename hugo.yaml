@@ -3,6 +3,14 @@ languageCode: "en-us"
 title: "Zuygui"
 theme: hugo-profile
 
+outputs:
+  home:
+  - HTML
+  - AMP
+  - RSS
+  page:
+  - HTML
+
 Paginate: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
