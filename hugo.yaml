@@ -5,12 +5,11 @@ theme: hugo-profile
 
 outputs:
   home:
-    - "HTML"
-    - "RSS"
-    - "JSON"
+  - HTML
+  - AMP
+  - RSS
   page:
-    - "HTML"
-    - "RSS"
+  - HTML
 
 Paginate: 3
 enableRobotsTXT: true
