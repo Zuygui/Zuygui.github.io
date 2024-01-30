@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://zuygui.github.io/"
 languageCode: "en-us"
 title: "Zuygui"
 theme: hugo-profile
