@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "/website"
 languageCode: "en-us"
 title: "Zuygui"
 theme: hugo-profile
