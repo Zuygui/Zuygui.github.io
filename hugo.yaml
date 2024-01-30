@@ -1,4 +1,4 @@
-baseURL: "zuygui.github.io/website"
+baseURL: "/"
 languageCode: "en-us"
 title: "Zuygui"
 theme: hugo-profile
@@ -54,7 +54,7 @@ Menus:
 params:
   title: "Zuygui"
   description: A Simple and Clean Portfolio/Blog website for me.
-  staticPath: "/static" # The path to serve the static files from
+  staticPath: "" # The path to serve the static files from
   favicon: "/images/hero.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -303,7 +303,7 @@ params:
     items:
       - title: FlowUpdater JSON Creator
         content: A tool to generate JSON files compatible with FlowUpdater.
-        image: /images/projects/profile.png
+        image: /images/projects/nopicture.jpg
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zuygui</title>
+    <link>zuygui.github.io/website/</link>
+    <description>Recent content on Zuygui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2024 20:09:05 +0100</lastBuildDate>
+    <atom:link href="zuygui.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing FlowUpdater JSON Creator</title>
+      <link>zuygui.github.io/website/blogs/introducing-flowupdater-json-creator/</link>
+      <pubDate>Mon, 29 Jan 2024 20:09:05 +0100</pubDate>
+      <guid>zuygui.github.io/website/blogs/introducing-flowupdater-json-creator/</guid>
+      <description>FlowUpdater JSON Creator is a tool to create JSON files compatibles with FlowUpdater.&#xA;Introduction While discussing and assisting people on the Support Launcher Discord server, a discord server for helping people to make customs Minecraft launchers, I realized that creating JSON files compatible with Flow Updater was time-consuming and tedious. This led me to the idea of developing a command-line tool to replace the existing desktop application.&#xA;What is Flow Updater ?</description>
+    </item>
+  </channel>
+</rss>
