@@ -2,6 +2,8 @@ baseURL: "https://zuygui.github.io/"
 languageCode: "en-us"
 title: "Zuygui"
 theme: hugo-profile
+socialShare: false
+
 
 outputs:
   home:
@@ -52,7 +54,6 @@ Menus:
     #   weight: 2
 
 params:
-  socialShare: false
   title: "Zuygui"
   description: A Simple and Clean Portfolio/Blog website for me.
   staticPath: "" # The path to serve the static files from
