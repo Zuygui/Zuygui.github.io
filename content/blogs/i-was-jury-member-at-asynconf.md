@@ -56,7 +56,10 @@ Following the event, the announcement of winners brought a sense of accomplishme
 
 ### 3rd Place
 
-[Github](https://github.com/maxencebonamy/Asynconf-2023/tree/main)
+
+### 3rd Place
+
+[Github](https://github.com/theskyblockman/tournois_asynconf_2023)
 
 ### 2nd Place
 
@@ -64,7 +67,8 @@ Following the event, the announcement of winners brought a sense of accomplishme
 
 ### 1st Place
 
-[Github](https://github.com/Mireole/Asynconf2023)
+[Github](https://github.com/maxencebonamy/Asynconf-2023/tree/main)
+
 
 ## Conclusion
 
