@@ -56,9 +56,6 @@ Following the event, the announcement of winners brought a sense of accomplishme
 
 ### 3rd Place
 
-
-### 3rd Place
-
 [Github](https://github.com/theskyblockman/tournois_asynconf_2023)
 
 ### 2nd Place
